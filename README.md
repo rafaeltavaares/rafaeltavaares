@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Rafael Tavares</h1>
+<h1 align="center">👋 Olá! Sou o Rafael Tavares</h1>
 
 <p align="center">
   Desenvolvedor full stack apaixonado por transformar ideias em soluções <strong>web</strong> e <strong>desktop</strong>.
