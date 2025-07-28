@@ -44,7 +44,7 @@
 |--------|--------------|------------|
 | 📊 [Extensão Chrome DKG](https://github.com/rafaeltavares/extensao-dkg) | JS, Supabase | Captura termos buscados, links clicados e gera métricas (entropia, Jaccard, etc.) |
 | 🎓 [Portal do Aluno](https://github.com/rafaeltavares/portal-do-aluno) | React, Spring Boot | Sistema de gestão acadêmica com notas, presenças, turmas e comunicados |
-| 🤖 [Mini Rede social com algoritmo de recomendação](https://github.com/rafaeltavares/mini-rede) | Python, Spring boot, Redis, Mysql | Sistema de recomendação de postagens |
+| 🤖 [Mini Rede social com algoritmo de recomendação](https://github.com/rafaeltavaares/mini-rede) | Python, Spring boot, Redis, Mysql | Sistema de recomendação de postagens |
 
 ---
 
